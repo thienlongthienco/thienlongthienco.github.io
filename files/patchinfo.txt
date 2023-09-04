@@ -12,7 +12,6 @@ VersionFrom=1.00.0051
 VersionTo=1.00.0052
 URL_1=https://thienlongthienco.github.io/files/update/TLBB_Update51-52.zip
 
-
 [Patch_2]
 VersionFrom=1.00.0052
 VersionTo=1.00.0053
