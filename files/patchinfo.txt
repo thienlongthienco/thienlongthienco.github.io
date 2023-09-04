@@ -1,5 +1,5 @@
 [Version]
-Latest=1.00.0052
+Latest=1.00.0053
 NewLaunch=1.0.1.10
 
 [Patch_0]
@@ -11,3 +11,9 @@ URL_1=https://thienlongthienco.github.io/files/update/TLBB_Update50-51.zip
 VersionFrom=1.00.0051
 VersionTo=1.00.0052
 URL_1=https://thienlongthienco.github.io/files/update/TLBB_Update51-52.zip
+
+
+[Patch_2]
+VersionFrom=1.00.0052
+VersionTo=1.00.0053
+URL_1=https://thienlongthienco.github.io/files/update/TLBB_Update52-53.zip
